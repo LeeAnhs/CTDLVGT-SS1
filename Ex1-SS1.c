@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main(){
+	int n=5;
+	for (int i=0; i < n ;i++) {
+		printf("Hello\n");
+	}
+	return 0;
+}
+//Độ phức tạp :O(n)
